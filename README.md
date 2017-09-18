@@ -1,4 +1,4 @@
-A web app that combines data or functionality from multiple sources. In this here mashup, you’ll combine data from Google News with functionality from Google Maps!
+A web app that combines data or functionality from multiple sources. You need to combine data from Google News with functionality from Google Maps!
 
 Google Maps offers an API that allows you to embed Google’s maps into your own web apps. wow, fantastic!
 Where to read about Google Maps Javascript API ? --  https://developers.google.com/maps/documentation/javascript/
